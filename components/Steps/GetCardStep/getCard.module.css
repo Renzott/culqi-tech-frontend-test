@@ -1,0 +1,11 @@
+.getCardStep{
+    @apply w-screen h-screen flex items-center justify-center bg-gray-200;
+    background-image: radial-gradient(rgb(4, 158, 9) 0.1rem, transparent 0);
+    background-size: 40px 40px;
+    background-position: -19px -19px;
+}
+
+
+.tabCard{
+    @apply flex flex-col gap-4 justify-center items-center;
+}
